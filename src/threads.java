@@ -1,7 +1,7 @@
 import java.util.Random;
 
 
-public class еркуфвы {
+public class threads {
     public static void main(String[] args) {
         int numberOfThreads = 10;
 
